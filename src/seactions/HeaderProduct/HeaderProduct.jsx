@@ -45,7 +45,7 @@ export default function HeaderProduct() {
                 size="lg"
                 // rel="nofollow"
                 // target="_blank"
-                href={"/"}
+                href={"/testProduct"}
               >
                 Home
               </MDBBtn>
